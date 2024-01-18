@@ -1,11 +1,16 @@
 body {
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 a {
     color: aquamarine;
+    font-size: 16px;
 }
 
-h1, h2 {
+.header {
     color: white;
+    font-size: 50px;
+    font-weight: normal;
 }
